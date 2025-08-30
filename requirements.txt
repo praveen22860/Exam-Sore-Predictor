@@ -1,0 +1,7 @@
+seaborn,
+matplotlib,
+scikit-learn,
+pandas,
+numpy,
+streamlit,
+warnings
