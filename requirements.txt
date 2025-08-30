@@ -1,7 +1,7 @@
-seaborn,
-matplotlib,
-scikit-learn,
-pandas,
+seaborn
+matplotlib
+scikit-learn
+pandas
 numpy,
-streamlit,
+streamlit
 warnings
